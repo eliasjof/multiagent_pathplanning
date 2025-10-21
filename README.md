@@ -6,20 +6,31 @@
 
 #### Case 1
 
-![robotarium_sim_scenario1_2_agents_0_obs.gif](scenario1/robotarium_sim_scenario1_2_agents_0_obs.gif)
+![sim_scenario1_2.gif](scenario1/sim_scenario1_2.gif)
 
 #### Case 2
 
-![robotarium_sim_scenario1_4_agents_0_obs.gif](scenario1/robotarium_sim_scenario1_4_agents_0_obs.gif)
+![sim_scenario1_4.gif](scenario1/sim_scenario1_4.gif)
 
 #### Case 3
 
-![robotarium_sim_scenario1_8_agents_0_obs.gif](scenario1/robotarium_sim_scenario1_8_agents_0_obs.gif)
+![sim_scenario1_8.gif](scenario1/sim_scenario1_8.gif)
 
 
-[See: Robotarium video](scenario1/robotarium_real_scenario1_8_agents_0_obs.mp4)
+[See: Robotarium video](scenario1/real_scenario1_8.mp4)
 
 ### Scenario 2: Narrow passage
 
+![evolution_scenario2.gif](scenario2/sim_scenario2_2.gif)
+
+[See: Evolution](scenario2/evolution_scenario2.mp4)
+
+[See: Robotarium video](scenario2/real_scenario2_2.mp4)
 
 ### Scenario 3: Cluttered environment
+
+![evolution_scenario2.gif](scenario3/sim_scenario3_4_8.gif)
+
+[See: Evolution](scenario3/evolution_scenario3.mp4)
+
+[See: Robotarium video](scenario3/real_scenario3_4_8.mp4)
