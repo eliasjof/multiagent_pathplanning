@@ -7,14 +7,17 @@
 #### Case 1
 
 ![sim_scenario1_2.gif](scenario1/sim_scenario1_2.gif)
+[See: Evolution](scenario1/evolution_scenario1_2.mp4)
 
 #### Case 2
 
 ![sim_scenario1_4.gif](scenario1/sim_scenario1_4.gif)
+[See: Evolution](scenario1/evolution_scenario1_4.mp4)
 
 #### Case 3
 
 ![sim_scenario1_8.gif](scenario1/sim_scenario1_8.gif)
+[See: Evolution](scenario1/evolution_scenario1_8.mp4)
 
 
 [See: Robotarium video](scenario1/real_scenario1_8.mp4)
